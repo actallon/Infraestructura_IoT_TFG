@@ -1,0 +1,6 @@
+influx1.py
+DHT22/DHT22.cpp
+Identificador.egg-info/PKG-INFO
+Identificador.egg-info/SOURCES.txt
+Identificador.egg-info/dependency_links.txt
+Identificador.egg-info/top_level.txt

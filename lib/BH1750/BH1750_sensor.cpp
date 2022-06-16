@@ -13,7 +13,7 @@ void bh1750_init()
   lightMeter.begin();
 }
 
-uint16_t bh1750_get_light()
+uint16_t bh1750_get_luminosidad()
 {
   return lightMeter.readLightLevel();
 }

@@ -7,6 +7,6 @@
 
 
 void bh1750_init();
-uint16_t bh1750_get_light();
+uint16_t bh1750_get_luminosidad();
 
 #endif

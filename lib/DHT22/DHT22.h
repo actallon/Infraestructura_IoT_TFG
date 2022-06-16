@@ -4,7 +4,7 @@
 #define DHT22_h
 
 void dht22_init();
-float dht22_get_temperature();
-float dht22_get_humidity();
+float dht22_get_temperatura();
+float dht22_get_humedad();
 
 #endif

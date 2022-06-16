@@ -1,0 +1,108 @@
+{
+  "homebrew_version": "3.4.11-102-gef0d5fc",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "Frameworks/Python.framework/Versions/3.9/bin/2to3-3.9",
+    "Frameworks/Python.framework/Versions/3.9/bin/idle3.9",
+    "Frameworks/Python.framework/Versions/3.9/bin/pydoc3.9",
+    "Frameworks/Python.framework/Versions/3.9/bin/python3.9-config",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/cgi.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/config-3.9-darwin/python-config.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/trace.py",
+    "Frameworks/Python.framework/Versions/3.9/share/doc/python3.9/examples/Tools/scripts/fixps.py",
+    "IDLE 3.app/Contents/MacOS/IDLE",
+    "Frameworks/Python.framework/Versions/3.9/lib/pkgconfig/python-3.9-embed.pc",
+    "Frameworks/Python.framework/Versions/3.9/lib/pkgconfig/python-3.9.pc",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/_sysconfigdata__darwin_darwin.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/config-3.9-darwin/Makefile",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/config-3.9-darwin/Setup",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/ctypes/macholib/dyld.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/ctypes/test/test_macholib.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/distutils/unixccompiler.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/mailcap.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/mimetypes.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/pydoc_data/topics.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/site.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/sitecustomize.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_mailcap.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_pathlib.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_posixpath.py",
+    "Frameworks/Python.framework/Versions/3.9/lib/python3.9/test/test_subprocess.py",
+    "Frameworks/Python.framework/Versions/3.9/share/doc/python3.9/examples/Tools/scripts/README",
+    "Python Launcher 3.app/Contents/Resources/factorySettings.plist"
+  ],
+  "time": 1653559949,
+  "source_modified_time": 1652797147,
+  "compiler": "clang",
+  "aliases": [
+    "python3",
+    "python@3",
+    "python"
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "gdbm",
+      "version": "1.23",
+      "declared_directly": true
+    },
+    {
+      "full_name": "mpdecimal",
+      "version": "2.5.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "ca-certificates",
+      "version": "2022-04-26",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openssl@1.1",
+      "version": "1.1.1o",
+      "declared_directly": true
+    },
+    {
+      "full_name": "readline",
+      "version": "8.1.2",
+      "declared_directly": true
+    },
+    {
+      "full_name": "sqlite",
+      "version": "3.38.5",
+      "declared_directly": true
+    },
+    {
+      "full_name": "xz",
+      "version": "5.2.5",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "3.9.13",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Aliases/python3",
+    "tap_git_head": "95f7d6d9aa0f75b066f8e333736e887e5b876b9b",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 10.15.7",
+    "cpu_family": "penryn",
+    "xcode": "12.4",
+    "clt": "12.0.0.32.29",
+    "preferred_perl": "5.18"
+  }
+}
